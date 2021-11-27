@@ -18,22 +18,23 @@ Before you work through the questions below, please create a new file and record
 Answer the following questions about the HTTP request and response process.
 
 1. What type of architecture does the HTTP request and response process occur in?
-   '''
+   ```
      Client-server architecture
-   '''	
+   ```	
 
 2. What are the different parts of an HTTP request? 
-   ''' 
+   ``` 
      Request line
      Headers
      Request body
    '''
 
 3. Which part of an HTTP request is optional?
-   ''' Request body '''
+   ``` Request body ```
 
 4. What are the three parts of an HTTP response?
-   ''' 
+   ```
+   ```
 
 5. Which number class of status codes represents errors?
 
